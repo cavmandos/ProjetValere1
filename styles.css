@@ -1,0 +1,38 @@
+header {
+    height: 20%;
+    background-color: yellow;
+    margin: 2px;
+    padding: 2px;
+    border: black solid 1px;
+}
+
+.container {
+    display: flex;
+    height: 75%;
+    margin: 1px;
+    padding: 1px;
+}
+
+.box2 {
+    width: 30%;
+    background-color: #ccffcc;
+    margin: 1px;
+    padding: 1px;
+    border: black solid 1px;
+}
+
+.box3 {
+    width: 70%;
+    background-color: white;
+    margin: 1px;
+    padding: 1px;
+    border: black solid 1px;
+}
+
+footer {
+    height: 5%;
+    background-color: lime;
+    margin: 1px;
+    padding: 1px;
+    border: black solid 1px;
+}
